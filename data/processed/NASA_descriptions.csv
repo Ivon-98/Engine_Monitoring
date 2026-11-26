@@ -1,0 +1,27 @@
+field,description,units
+engine_id,Engine identifier,—
+cycle,Cycle,cycles
+setting_1,Altitude,ft
+setting_2,Mach number,id
+setting_3,Throttle resolver angle,deg
+sensor_1,Fan inlet temp,°R
+sensor_2,LPC outlet temp,°R
+sensor_3,HPC outlet temp,°R
+sensor_4,LPT outlet temp,°R
+sensor_5,fan inlet press,psia
+sensor_6,bypass duct press,psia
+sensor_7,HPC outlet press,psia
+sensor_8,Fan speed,rpm
+sensor_9,Core speed,rpm
+sensor_10,Engine pressure ratio (P50/P2),(P50/P2)
+sensor_11,HPC outlet Static pressure,psia
+sensor_12,Fuel Ratio flow Ps30,pps/psi
+sensor_13,Corrected fan speed,rpm
+sensor_14,Corrected core speed,rpm
+sensor_15,Bypass ratio,ratio
+sensor_16,Burner fuel-air ratio,ratio
+sensor_17,Bleed enthalpy,—
+sensor_18,Demanded fan speed,rpm
+sensor_19,Demanded corrected fan speed,rpm
+sensor_20,HPT coolant bleed,lbm/s
+sensor_21,LPT coolant bleed,lbm/s

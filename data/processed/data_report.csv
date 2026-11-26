@@ -1,0 +1,9 @@
+subset,category,rows,engines,missing_values,duplicate_rows,cycles_continuous,cycles_min,cycles_mean,cycles_max,constant_columns
+FD001,train,20631,100,0,0,True,128,206.3,362,7
+FD001,test,13096,100,0,0,True,31,131.0,303,7
+FD002,train,53759,260,0,0,True,128,206.8,378,0
+FD002,test,33991,259,0,0,True,21,131.2,367,0
+FD003,train,24720,100,0,0,True,145,247.2,525,6
+FD003,test,16596,100,0,0,True,38,166.0,475,6
+FD004,train,61249,249,0,0,True,128,246.0,543,0
+FD004,test,41214,248,0,0,True,19,166.2,486,0
